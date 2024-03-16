@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>img/LoginBackground.jpg</file>
+        <file>img/App.ico</file>
+        <file>img/MainBackground.jpg</file>
+        <file>img/VideoBackground.jpg</file>
+    </qresource>
+    <qresource prefix="/Gif">
+        <file>img/Logging.gif</file>
+        <file>img/Registering.gif</file>
+    </qresource>
+</RCC>
